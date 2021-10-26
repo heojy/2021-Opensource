@@ -1,2 +1,1 @@
-branch2는 branch1에 파일 새롭게 추가
-
+branch1 edited
